@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShakingClock</string>
+    <string name="action_settings">Settings</string>
+    <string name="buttonControlStartService">Start Service</string>
+    <string name="buttonControlStopService">Stop Service</string>
+    <string name="title">Shaking Clock</string>
+    <string name="slideThreshold">Sensitivity</string>
+    <string name="slideInterval">Minimum Interval</string>
+</resources>
